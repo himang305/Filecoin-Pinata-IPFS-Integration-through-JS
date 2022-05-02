@@ -1,4 +1,7 @@
 
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
     var file = document.getElementById("nft").files[0];
     console.log(file);
     var formData = new FormData();
